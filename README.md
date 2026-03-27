@@ -39,7 +39,7 @@ This is also a way to access my content where you actually work - so I can help 
 
 1. Clone this repo:
    ```
-   git clone https://github.com/hannahstulberg/in-the-weeds-articles.git
+   git clone https://github.com/in-the-weeds-hannah-stulberg/substack-articles.git
    ```
 
 2. Open the folder in your IDE (Cursor or VS Code)
