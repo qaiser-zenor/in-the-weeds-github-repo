@@ -60,11 +60,11 @@ These tools read the AGENTS.md file (a copy of CLAUDE.md) for the same instructo
 
 ### Without any AI tool
 
-Just read the articles directly. Start with `claude-code-for-everything/01-*/article.md` and work through the series in order. Each article is designed to stand alone - Hannah's bar is that someone with no background can read it and be fully up and running.
+Just read the articles directly. Start with `claude-code-for-everything/01-*/article.md` and work through the series in order. Each article is designed to stand alone - my bar is that you can read any one of these guides with no technical background and be fully up and running.
 
 ## Practice repo
 
-The GitHub 101 article includes a real practice repo at [sidwyn/acme-ops](https://github.com/sidwyn/acme-ops) where you can fork, clone, and submit your first pull request. When you're ready for hands-on GitHub practice, head there.
+The [GitHub 101](tool-school/01-github-101/article.md) article includes a real practice repo at [sidwyn/acme-ops](https://github.com/sidwyn/acme-ops) where you can fork, clone, and submit your first pull request. When you're ready for hands-on GitHub practice, head there.
 
 ## Contributors
 
