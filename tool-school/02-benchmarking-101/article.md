@@ -534,27 +534,27 @@ Right now, cost-adjusted evaluation is emerging but not yet standard. Most bench
 
 Now you have the full picture - benchmarks, trust, and cost. Let's apply everything to 3 real launches.
 
-## Reading the 3 February-March 2026 launches
+## Reading recent model launches
 
-With all of this in mind, here's how to read the 3 February-March 2026 launches.
+With all of this in mind, here's how to read 3 of the recent model launches.
 
 **Opus 4.6 (February 5, 2026)**
 
 Anthropic launched Opus 4.6 as the most capable model for complex, long-running work. The headline benchmarks: Humanity's Last Exam (high relevance, where Opus leads), Terminal-Bench 2.0, and the enterprise agentic tests - tau2-bench at 99.3% and BigLaw at 90.2% (both high relevance). Plus a 1M context window.
 
-The informed read: Opus 4.6 is genuinely the strongest model for enterprise agentic work and long-context professional tasks. At $5 input / $25 output per 1M tokens, it's also the most expensive frontier model on the market. The question isn't whether Opus is the best at what it does - it's whether the gap justifies the price.
+*The informed read:* Opus 4.6 is genuinely the strongest model for enterprise agentic work and long-context professional tasks. At $5 input / $25 output per 1M tokens, it's also the most expensive frontier model on the market. The question isn't whether Opus is the best at what it does - it's whether the gap justifies the price.
 
 **Sonnet 4.6 (February 17, 2026)**
 
 12 days later, Anthropic released Sonnet 4.6. The headline: Opus-level intelligence at Sonnet pricing, with 1M context and computer use. The most interesting number: in human preference testing, Sonnet 4.6 was preferred over Opus 4.5 59% of the time. Notice the baseline - that's Opus 4.5, not Opus 4.6.
 
-The informed read: Sonnet 4.6 is the most interesting model of the 3 for most readers. It delivers close to flagship performance at a fraction of the cost. At $3 input / $15 output per 1M tokens (40% cheaper than Opus on output), the gap between Sonnet 4.6 and Opus 4.6 on most benchmarks is narrow enough that the price difference becomes the deciding factor for everyday work.
+*The informed read:* Sonnet 4.6 is the most interesting model of the 3 for most readers. It delivers close to flagship performance at a fraction of the cost. At $3 input / $15 output per 1M tokens (40% cheaper than Opus on output), the gap between Sonnet 4.6 and Opus 4.6 on most benchmarks is narrow enough that the price difference becomes the deciding factor for everyday work.
 
 **GPT-5.4 (March 5, 2026)**
 
 OpenAI launched GPT-5.4 with the biggest headline: a 75% score on OSWorld, surpassing the human baseline of 72.4%. This is the first time any AI model has outperformed humans on a computer use benchmark - a genuinely significant milestone. OpenAI also highlighted GDPval (moderate relevance) and SWE-bench Pro (high relevance).
 
-The informed read: GPT-5.4 leads on professional tasks and computer use and the OSWorld milestone is the most concrete achievement across all 3 launches. At $2.50 input / $15 output per 1M tokens, it's competitive with Sonnet 4.6 on output and cheaper on input.
+*The informed read:* GPT-5.4 leads on professional tasks and computer use and the OSWorld milestone is the most concrete achievement across all 3 launches. At $2.50 input / $15 output per 1M tokens, it's competitive with Sonnet 4.6 on output and cheaper on input.
 
 ## Best for what? At what price? On which tests?
 
