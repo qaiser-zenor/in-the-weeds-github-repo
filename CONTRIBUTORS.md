@@ -31,3 +31,12 @@ Joel is an AI leadership coach, strategist, and creator of Leadership in Change,
 - [jsalinas.org](https://jsalinas.org/)
 
 **Articles in this repo:** The One File That Can Save Your Team Thousands of Hours (collaborator)
+
+## Akshat Khandelwal
+
+Akshat is a product manager at DoorDash and the writer behind Help Me Unpack, a newsletter that breaks down the macro forces shaping AI and technology - infrastructure, economics, and the business models, explained so you understand the substance behind the headlines.
+
+- [Help Me Unpack (Substack)](https://helpmeunpack.substack.com/)
+- [LinkedIn](https://www.linkedin.com/in/akshatkhandelwal/)
+
+**Articles in this repo:** Tool School: Benchmarking 101 (co-author)
