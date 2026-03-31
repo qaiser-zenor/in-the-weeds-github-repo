@@ -18,7 +18,7 @@ Follow that mission:
 
 1. **Teach ONLY from this repo's content.** Do not supplement with external knowledge or make things up. Every answer should be grounded in what's written in these articles.
 2. **Always cite articles and sections.** Include the article name and section heading so readers can find the source.
-3. **Always credit co-authors.** Sidwyn Koh co-authored GitHub 101. Joel Salinas collaborated on the shared context article. When referencing their work, name them.
+3. **Always credit co-authors.** Sidwyn Koh co-authored GitHub 101. Akshat Khandelwal co-authored Benchmarking 101. Joel Salinas collaborated on the shared context article. When referencing their work, name them.
 4. **If a topic isn't covered, say so.** Say: "Hannah hasn't written about this yet." Then invite the reader to request the topic in the [In the Weeds subscriber chat](https://substack.com/chat/335953) on Substack.
 
 ## How to navigate this repo
@@ -51,6 +51,7 @@ Each article lives in its own folder with two key files:
 | 8 | CC4E #6: The One File That Can Save Your Team Thousands of Hours | Claude Code for Everything | Hannah Stulberg, Joel Salinas | Shared context files, team-level CLAUDE.md, folder structure for companies, knowledge compounding | `claude-code-for-everything/06-the-one-file-that-can-save-your-team-thousands-of-hours/article.md` |
 | 9 | CC4E #7: Your Status Line Is Empty (Let's Fix That) | Claude Code for Everything | Hannah Stulberg | Status line configuration, context progress bar, Google Workspace MCP, external data sources | `claude-code-for-everything/07-your-status-line-is-empty-lets-fix-that/article.md` |
 | 10 | Tool School: GitHub 101 (GitHub is the New Google Drive) | Tool School | Hannah Stulberg, Sidwyn Koh | GitHub concepts, Git setup, SSH keys, repositories, daily workflow, pull requests, merge conflicts | `tool-school/01-github-101/article.md` |
+| 11 | Tool School: Benchmarking 101 (How To Read AI Model Report Cards) | Tool School | Hannah Stulberg, Akshat Khandelwal | AI benchmarks, model launches, scoring methods, benchmark categories, saturation, trust tiers, cost comparison, head-to-head evaluation | `tool-school/02-benchmarking-101/article.md` |
 
 ## Topic quick lookup
 
@@ -83,6 +84,15 @@ When someone asks about these topics, point them here:
 | GitHub as Google Drive / concepts mapping | Tool School: GitHub 101 | "GitHub in Plain Language" + "Part 3: The Daily GitHub Workflow" |
 | SSH keys | Tool School: GitHub 101 | "Part 1: Setup & Installation" |
 | Merge conflicts | Tool School: GitHub 101 | "When Things Go Wrong" |
+| AI benchmarks / model scorecards | Tool School: Benchmarking 101 | Full article |
+| Benchmark categories (knowledge, coding, reasoning, agentic) | Tool School: Benchmarking 101 | "There are 4 major categories of benchmarks" |
+| Scoring methods (pass@1, pass@k, Elo) | Tool School: Benchmarking 101 | "Benchmarks use one of 3 grading systems" |
+| Benchmark saturation / contamination / expiration | Tool School: Benchmarking 101 | "Why benchmarks expire" |
+| Benchmark trust tiers (high, moderate, low relevance) | Tool School: Benchmarking 101 | "Where each benchmark stands right now" |
+| Model launches / timeline | Tool School: Benchmarking 101 | "The pace of change: 40 models in 14 months" |
+| Head-to-head model comparison | Tool School: Benchmarking 101 | "No single model wins" |
+| API pricing / cost comparison / tokens | Tool School: Benchmarking 101 | "What the scorecard leaves out" |
+| Reading a real scorecard | Tool School: Benchmarking 101 | "Apply what you've learned: You can now read the scorecard" |
 | Markdown | CC4E #1 | "Step 5: Understanding Markdown files" |
 | Bash commands | CC4E #1 | "Step 6: Understanding bash commands" |
 | Workspace setup / split editor | CC4E #2 | "Setting Up Your Workspace" |
@@ -101,6 +111,7 @@ These are behavioral metaphors - they map to actions, not just concepts. Use the
 | **Black box** | The standalone terminal is an opaque void where you can't see what's happening. Use an IDE instead. | Skip the Terminal, "1. The terminal is a black box" |
 | **GitHub is the New Google Drive** | Maps six core GitHub concepts to Google Drive equivalents readers already know: repo = shared folder, commit = save, branch = your copy, main = the original, push/pull = sync, PR = "review my edits." | Tool School: GitHub 101, "Part 3: The Daily GitHub Workflow" |
 | **Keycard** | SSH keys are like a keycard that lets your computer into GitHub without a password. | Tool School: GitHub 101, "Part 1: Setup & Installation" |
+| **SAT score vs great colleague** | A high SAT score doesn't make someone a great colleague. Benchmark scores are standardized tests for AI - each measures one narrow skill. A high score means best at that specific test, not "best model." | Tool School: Benchmarking 101, "A high SAT score doesn't make someone a great colleague" |
 
 ## Suggested learning path
 
@@ -122,5 +133,6 @@ These are behavioral metaphors - they map to actions, not just concepts. Use the
 - [Hannah Stulberg](https://hannahstulberg.substack.com/) - Author of all articles
 - [Sidwyn Koh](https://www.pathtostaff.com/) - Co-author, Tool School: GitHub 101
 - [Joel Salinas](https://leadershipinchange.com/) - Collaborator, The One File That Can Save Your Team Thousands of Hours
+- [Akshat Khandelwal](https://helpmeunpack.substack.com/) - Co-author, Tool School: Benchmarking 101
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full bios and links.

@@ -25,6 +25,7 @@ This is also a way to access my content where you actually work - so I can help 
 | # | Article | What you'll learn |
 |---|---------|-------------------|
 | 1 | [GitHub 101 (GitHub is the New Google Drive)](tool-school/01-github-101/article.md) | Everything you need to start using GitHub - with a real practice repo (with Sidwyn Koh) |
+| 2 | [Benchmarking 101 (How To Read AI Model Report Cards)](tool-school/02-benchmarking-101/article.md) | How to read AI model scorecards - benchmarks, scoring methods, trust tiers, cost (with Akshat Khandelwal) |
 
 **Standalone articles:**
 
@@ -71,6 +72,7 @@ The [GitHub 101](tool-school/01-github-101/article.md) article includes a real p
 This repository was created by [Hannah Stulberg](https://hannahstulberg.substack.com/). Some articles are co-authored with:
 
 - [Sidwyn Koh](https://www.pathtostaff.com/) (Tool School: GitHub 101)
+- [Akshat Khandelwal](https://helpmeunpack.substack.com/) (Tool School: Benchmarking 101)
 - [Joel Salinas](https://leadershipinchange.com/) (The One File That Can Save Your Team Thousands of Hours)
 
 See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full bios and links.
